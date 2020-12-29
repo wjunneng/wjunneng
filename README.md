@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 
 Hey 👋🏽, I'm wjunneng!  
 
-\
 ![](https://github-readme-stats.vercel.app/api?username=wjunneng)
 -->
