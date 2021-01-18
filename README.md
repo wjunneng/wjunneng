@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Hey 👋🏽, I'm wjunneng!  
+Hey 👋🏽, I'm wjunneng !
 
 -->
 
